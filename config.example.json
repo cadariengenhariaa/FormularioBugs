@@ -1,0 +1,27 @@
+{
+  "flowup": {
+    "url_base": "https://api.flowup.me",
+    "versao_api": "v1",
+    "token": "",
+    "projeto_id": 151,
+    "quadro_id": 2271,
+    "tag": {
+      "Id": 286,
+      "Name": "Chamados",
+      "Color": "#ff4500",
+      "Active": true
+    },
+    "seguidores_fixos": [
+      10
+    ],
+    "status": {
+      "Novas": 11583,
+      "Em andamento": 11585,
+      "Pendência Interna": 11677,
+      "Finalizadas": 11584
+    },
+    "timeout_segundos": 30,
+    "status_final": "Finalizadas",
+    "sincronizar_equipe": true
+  }
+}

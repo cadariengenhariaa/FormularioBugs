@@ -1,0 +1,26 @@
+# Ambiente virtual e compilação (recriados a qualquer momento)
+venv/
+.venv/
+build/
+dist/
+__pycache__/
+*.pyc
+
+# Dados de produção e segredos: ficam só na pasta da rede, nunca no GitHub
+Banco de dados/
+config.json
+*.db
+*.db-journal
+logs/
+anexos/
+*.log
+
+# Arquivos do Windows e de editores
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Restos da versão 1.x (tinham token no código). Apague-os da pasta antes de publicar.
+Ver tarefa.py
+erros/

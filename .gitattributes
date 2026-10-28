@@ -1,0 +1,5 @@
+# Texto com fim de linha normalizado; imagens e ícones como binário
+* text=auto
+*.png binary
+*.ico binary
+*.db binary
